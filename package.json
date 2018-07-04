@@ -2,5 +2,8 @@
   "name": "secret",
   "version": "1.0.0",
   "main": "src/index.js",
-  "author": "royjang"
+  "author": "royjang",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
